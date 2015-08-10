@@ -1,0 +1,11 @@
+﻿Build started 2015/8/10 17:48:55.
+     1>Project "D:\codetest\Dx11WithQt\Dx11WithQt\Dx11WithQt.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_d3d11renderwidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_d3d11renderwidget.cpp, GeneratedFiles\Release\moc_d3d11renderwidget.cpp.
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_mainwidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_mainwidget.cpp, GeneratedFiles\Release\moc_mainwidget.cpp.
+     1>Link:
+         Dx11WithQt.vcxproj -> D:\codetest\Dx11WithQt\Win32\Debug\Dx11WithQt.exe
+     1>Done Building Project "D:\codetest\Dx11WithQt\Dx11WithQt\Dx11WithQt.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
